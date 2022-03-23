@@ -1,0 +1,21 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Fugaz+One&display=swap');
+
+body {
+
+  font-family: 'Fugaz One', cursive;
+
+  }
+
+  .dropdown-item:hover{
+
+background: rgb(247, 187, 23);
+
+
+  }
+
+  .modal{
+
+font-family: 'ROBOTO';
+
+  }
